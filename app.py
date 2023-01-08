@@ -1,11 +1,11 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st. set_page_config(layout="wide")
+st. set_page_config(layout="wide", theme=light)
 
 st.sidebar.image("https://static.thenounproject.com/png/821139-200.png", width=100)
-st.sidebar.subheader("About Voice Cloning")
-st.sidebar.markdown("##### Voice cloning is the name of the process that allows artificial intelligence to create a cloned or copied version of a natural human voice")
+st.subheader("About Voice Cloning")
+st.markdown("##### Voice cloning is the name of the process that allows artificial intelligence to create a cloned or copied version of a natural human voice")
 
 st.sidebar.subheader("How to use the Voice Cloning Engine")
 st.sidebar.markdown("##### 1. Input text you want to create")
