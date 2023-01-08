@@ -1,7 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st. set_page_config(layout="wide", theme=light)
+st. set_page_config(layout="wide", theme='light')
 
 st.sidebar.image("https://static.thenounproject.com/png/821139-200.png", width=100)
 st.subheader("About Voice Cloning")
