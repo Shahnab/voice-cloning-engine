@@ -8,7 +8,9 @@ st.sidebar.subheader("About Voice Cloning")
 st.sidebar.markdown("##### Voice cloning is the name of the process that allows artificial intelligence to create a cloned or copied version of a natural human voice")
 
 st.sidebar.subheader("How to use the Voice Cloning Engine")
-st.sidebar.markdown("##### Input text you want to create and upload sample voice to clone the text voice sample")
+st.sidebar.markdown("##### 1. Input text you want to create")
+st.sidebar.markdown("##### 2. Upload sample voice or record from the microphone")
+st.sidebar.markdown("##### 3. Click Submit")
 
 st.sidebar.caption("</Shahnab>")
 
