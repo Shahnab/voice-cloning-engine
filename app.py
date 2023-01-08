@@ -12,6 +12,9 @@ st.sidebar.markdown("##### 1. Input text you want to create")
 st.sidebar.markdown("##### 2. Upload sample voice or record from the microphone")
 st.sidebar.markdown("##### 3. Click Submit")
 
+st.markdown("Sample Voice Samples for uploading- [link](https://drive.google.com/drive/folders/1VT3QOnl9E3_OEelNOCp2BqcFs2dJ68ju?usp=sharing)")
+
+
 st.sidebar.caption("</Shahnab>")
 
 st.subheader("Voice Cloning Engine")
